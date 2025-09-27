@@ -3,6 +3,8 @@ name = "git-internal"
 version = "0.1.0"
 edition = "2024"
 license = "MIT"
+description = "A high-performance Rust library for encoding and decoding Git internal objects and Pack files."
+homepage = "https://github.com/web3infra-foundation/git-internal"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
